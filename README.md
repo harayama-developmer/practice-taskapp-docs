@@ -60,3 +60,5 @@ Rails学習用のタスク管理アプリの仕様書
 
 ## 画面仕様
 
+https://whimsical.com/practice-taskapp-wf-Kkji5FwZmwKHHpLEPvYrpg
+pass: taskapp
